@@ -1,0 +1,7 @@
+name: flutter_primer_plus
+
+packages:
+  - dart/**
+
+scripts:
+  analyze: dart analyze .
